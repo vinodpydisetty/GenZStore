@@ -1,7 +1,6 @@
-# ShopNex - An Ecommerce App 🛍️ #
+# VintageWardrobe - An Ecommerce App 🛍️ #
 
-## Live Link : ##
-[shopnex.vercel.app](https://shopnex.vercel.app/)
+
 
 ## About The Project ##
 
@@ -22,8 +21,8 @@ Shopnex is your one-stop destination for fashionable clothing for the entire fam
 
 ## Getting Started :octocat: ##
 ```
-$ git clone https://github.com/JiyaGupta-cs/ShopNex.git
-$ cd ShopNex/
+$ git clone https://github.com/vinodpydisetty/ShopNex.git
+$ cd VintageWordrobe/
 $ npm install
 $ npm start 
 ```
@@ -31,5 +30,5 @@ $ npm start
 
 ## Contributing Guidelines :octocat: ##
 
-[https://github.com/JiyaGupta-cs/mytwit/blob/master/contributing.md](https://github.com/JiyaGupta-cs/shopnex/blob/master/contributing.md)
+[https://github.com/vinodpydisetty/mytwit/blob/master/contributing.md](https://github.com/JiyaGupta-cs/shopnex/blob/master/contributing.md)
 
